@@ -14,12 +14,12 @@ export function BottomLogo() {
         {i18n.t('Powered By')}
       </Typography>
       <Divider direction="horizontal" size={8} />
-      <StyledAnchor href="https://rango.exchange" target="_blank">
-        <Logo size={16} color="gray" />
+      <StyledAnchor href="https://orai.io" target="_blank">
+        <Logo />
         <Divider direction="horizontal" size={4} />
 
         <Typography variant="body" size="xsmall" color="neutral700">
-          RANGO
+          Oraichain
         </Typography>
       </StyledAnchor>
     </Container>
